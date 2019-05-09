@@ -7,6 +7,8 @@ You are standing at the centre of a circular field of radius R. The field has a 
 Attached to the wire fence (and restricted to running around the perimeter) is a large, sharp-fanged, hungry dog.
 You can run at speed v, while the dog can run four times as fast. What is your running strategy to escape the field?
 ```
+For more info about the riddle you can read this post - http://datagenetics.com/blog/october12013/index.html
+
 
 ## Examples
 
